@@ -3,9 +3,10 @@
 # forestcamp X cloudmate 인턴십 협업 프로젝트입니다
 
 
+
 <br>
 <p align="center">
-<img width="500px" src="https://github.com/LeeMyungdeok/forestcamp/assets/115915362/c6f555e7-7aa0-4a9f-9249-a113119c93a6">
+<img width="500px" src="https://github.com/LeeMyungdeok/forestcamp/assets/115915362/1b353e95-3818-4f7b-a253-0f9b0679acc8">
 <br>
 <img src= "https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src= "https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
