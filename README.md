@@ -11,11 +11,12 @@
 <img src= "https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src= "https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-<img src= "https://img.shields.io/badge/inux-FCC624?style=flat-square&logo=linux&logoColor=white" />
 <img src= "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<br>
 <img src= "https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
 <img src= "https://img.shields.io/badge/amazonsimpleemailservice-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white" />
 <img src= "https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src= "https://img.shields.io/badge/inux-FCC624?style=flat-square&logo=linux&logoColor=white" />
 <br>
 </p>
 
