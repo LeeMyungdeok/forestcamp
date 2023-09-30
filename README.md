@@ -28,25 +28,7 @@
 ### development environment
 
 #### Recipe-provided-project
-```
-json-server --watch ./bin_FoodData.json --host 0.0.0.0 --port 5000
-```
-```
-json-serve
-```
-```
-r --watch ./Trash.json --host 0.0.0.0 --port 5001
-```
 
-#### server
-```
-uvicorn main:app --host 0.0.0.0 --port 3000 --reload
-```
-
-#### client
-```
-nodemon app.js
-```
 
 ## back-end 아키텍쳐 설계
 
@@ -55,19 +37,24 @@ nodemon app.js
 ### 기능 동작
 |                sign in              |                sign up               |
 | :----------------------------------: | :----------------------------------: | 
-| <img src='https://github.com/LeeMyungdeok/Recipe-provided-project/assets/115915362/0a8dd09a-962c-4eb5-9ee7-aea4d4bcc16f' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/Recipe-provided-project/assets/115915362/96fccd2d-74b5-4c75-9f83-2857754edf8d' width='400px' height='300px'>                                 |
+| <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/e0d33021-77ed-43f4-bdf3-d72507daa963' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/e7ae0496-4111-4ff8-9853-3bb2c9468325' width='400px' height='300px'>  |
 
 |                return              |                rental               |
 | :----------------------------------: | :----------------------------------: |
-| <img src='https://github.com/LeeMyungdeok/Recipe-provided-project/assets/115915362/b6b795d0-f00b-4429-8351-fe532fa74a7c' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/Recipe-provided-project/assets/115915362/36730ab2-37b2-4ecf-8324-3318801bfbc4' width='400px' height='300px'> |
+| <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/29467aa2-07ac-4fa5-be32-447cbd0f7abe' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/90a81ef9-52b3-404b-8c24-9a329da9c126' width='400px' height='300px'> |
+
+
+
+
+
 
 ## 배포
 
 예정 입니다.
 
-## 팀명: 이세계식당
+## 팀명: forestcamp
 
-* [팀원](링크) - 이명덕, 서민희
+* [팀원](링크) - 이명덕, 이민섭, 윤성현, 김인철
 
 ## 담당 업무
 
@@ -83,5 +70,4 @@ nodemon app.js
  
 ## 보완점
 
-* 데이터 전처리에 대한 경우 완벽하지 못하여 재료가 아닌 값이 나오는 경우가 있습니다. 그것을 사용자가 신고를 해줌으로써 필터안에 들어가게 되고 그 후 다시 그 음식에 대한 레시피를 조회하면 필터링이 될 수 있도록 설계를 했습니다. 비롯 초반에는 애러가 종종 발생하지만 사용자들이 사용하고 신고를 눌러 줌으로써 데이터가 쌓여 더욱 정교한 프로세스서가 될수 있는 성장형 프로그램을 만들었습니다.
-* 현재 AWS에서 다시 Develop 예정입니다.
+* 
