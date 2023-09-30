@@ -27,12 +27,11 @@
 
 ### development environment
 
-#### Recipe-provided-project
 
 
 ## back-end 아키텍쳐 설계
 
-<img width="700" alt="image" src="https://github.com/LeeMyungdeok/Recipe-provided-project/assets/115915362/fa80152a-5bb5-4977-9e4f-a94d953fa51e">
+
 
 ### 기능 동작
 |                전체 화면             |                sign up               |
@@ -42,11 +41,6 @@
 |                return              |                rental               |
 | :----------------------------------: | :----------------------------------: |
 | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/29467aa2-07ac-4fa5-be32-447cbd0f7abe' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/90a81ef9-52b3-404b-8c24-9a329da9c126' width='400px' height='300px'> |
-
-
-
-
-
 
 ## 배포
 
@@ -58,16 +52,6 @@
 
 ## 담당 업무
 
-- backend
-  - 공공 데이터 포털에서 요리 재료에 대한 데이터를 가공했습니다.
-    - 재료에 대한 전처리는 주로 코넬파이를 이용하여 형태소 분리 또는 정규 표현식을 사용하여 작업을 진행했습니다. 
-  - 요리 레시피에 대한 데이터 및 재료 데이터를 가지고 Fast api를 사용하여 Rest full 방식으로 프로세스를 구축했습니다.
-    - json 파일을 임의의 server로 사용하여 전처리를 잘못된부분을 필터링을 걸치도록 하기위해 구축했습니다.
-    - 검색, 연관검색, 신고, 레시피 조회 등 전반적인 api 설계 부터 구현까지 위주로 담당업무를 진행했습니다. 
-- frontend
-  - xhr를 사용하여 client와 server을 연결했습니다.
-    - 기존에 axios를 사용했지만 xhr을 알게 되어 어떤 흐름으로 가는지 경험했습니다. 
  
 ## 보완점
 
-* 
