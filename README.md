@@ -35,7 +35,7 @@
 <img width="700" alt="image" src="https://github.com/LeeMyungdeok/Recipe-provided-project/assets/115915362/fa80152a-5bb5-4977-9e4f-a94d953fa51e">
 
 ### 기능 동작
-|                sign in              |                sign up               |
+|                전체 화면             |                sign up               |
 | :----------------------------------: | :----------------------------------: | 
 | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/e0d33021-77ed-43f4-bdf3-d72507daa963' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/e7ae0496-4111-4ff8-9853-3bb2c9468325' width='400px' height='300px'>  |
 
