@@ -331,8 +331,6 @@ if __name__ == '__main__':
 #     # usage_demo()
 #     # SnsWrapper.create_topic("Mytopic")
     topic = SnsWrapper(boto3.resource('sns')).create_topic('mytopic')
-    # SnsWrapper(boto3.resource('sns')).publish_text_message("+821088130286", "이 편지는 영국에서 온 편지로 30명에게 전달을 안할경우 치매가 옵니다.")\
-    # SnsWrapper.subscribe(topic, "email", "yyh718@naver.com")
     # SnsWrapper.publish_message(topic, "Hi", {'String':'hi'})
 # a = boto3.resource('sns')
 # print(a)
