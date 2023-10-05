@@ -31,8 +31,9 @@
 
 ## back-end 아키텍쳐 설계
 
+
 <p align="center">
- <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/6fd5c6b5-8b24-4c16-b160-4ada281c7e43' width='400px' height='400px'>
+ <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/4841b6a0-5363-4d49-9950-b9aa8781b52c' width='400px' height='400px'>
 </p>
 
 ### 기능 동작
