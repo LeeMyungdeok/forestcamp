@@ -33,7 +33,7 @@
 
 
 <p align="center">
- <img src='![ForestCamp 아키텍쳐](https://github.com/LeeMyungdeok/forestcamp/assets/115915362/605d707e-c0d5-4258-8e01-dd2bebbe7e31)' width='400px' height='400px'>
+ <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/605d707e-c0d5-4258-8e01-dd2bebbe7e31' width='400px' height='400px'>
 </p>
 
 ### 기능 동작
