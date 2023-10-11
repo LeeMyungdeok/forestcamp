@@ -33,10 +33,11 @@
 
 
 <p align="center">
- <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/4841b6a0-5363-4d49-9950-b9aa8781b52c' width='400px' height='400px'>
+ <img src='![ForestCamp 아키텍쳐](https://github.com/LeeMyungdeok/forestcamp/assets/115915362/605d707e-c0d5-4258-8e01-dd2bebbe7e31)' width='400px' height='400px'>
 </p>
 
 ### 기능 동작
+
 |                전체 화면             |                sign up               |
 | :----------------------------------: | :----------------------------------: | 
 | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/e0d33021-77ed-43f4-bdf3-d72507daa963' width='400px' height='300px'> | <img src='https://github.com/LeeMyungdeok/forestcamp/assets/115915362/e7ae0496-4111-4ff8-9853-3bb2c9468325' width='400px' height='300px'>  |
